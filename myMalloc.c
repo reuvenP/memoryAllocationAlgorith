@@ -1,3 +1,12 @@
+//####################################
+//
+// Reuven Plevinsky
+// plevreuven@gmail.com
+//
+//####################################
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 typedef long long BLOCK;
